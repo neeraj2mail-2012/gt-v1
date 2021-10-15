@@ -1,2 +1,4 @@
 sample file from 1 dev
 a very long text enter in the file 
+Reset 11 
+change in sample file 1 dev from main
